@@ -4,11 +4,20 @@
 
 > Our project uses AI to analyze user preferences and create social gatherings for hotel residents with similar interests. It automates event creation using shared hotel amenities and includes a chat function to strengthen the Lyf community
 
+### key pages
+
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/bcef7e42-b0b4-4562-b8e9-4299708ee1d9">
 
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/5033a3d9-3c20-4f19-956c-217e74aadc72">
 
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/e78dfc3f-b974-48ba-9100-f7d06365307f">
+
+### event detail
+
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/a48b1336-5ab8-40ea-933a-f6810c6d92e8">
+
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/c5a1a61e-1016-4b07-816d-e0d7b6029906">
+
 
 ## features
 
