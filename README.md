@@ -1,8 +1,8 @@
-# Lyf Cycle
+# Lyf Circle
 
 ## description
 
-> Our project uses AI to analyze user preferences, creating social gathering for hotel residents with similar interests. It automates event creation using shared hotel amenities and includes a chat function to improve lyf community.
+> Our project uses AI to analyze user preferences and create social gatherings for hotel residents with similar interests. It automates event creation using shared hotel amenities and includes a chat function to strengthen the Lyf community
 
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/bcef7e42-b0b4-4562-b8e9-4299708ee1d9">
 
@@ -25,7 +25,7 @@
 
 ## FE
 ```
-cd lyf-cycle-fe
+cd lyf-circle-fe
 npm install
 npm run dev
 ```
@@ -33,7 +33,7 @@ npm run dev
 ## BE
 
 ```
-cd lyf-cycle-be
+cd lyf-circle-be
 vi README.md
 
 # for using openai 
