@@ -1,0 +1,6 @@
+[submodule "lyf-circle-fe"]
+	path = lyf-circle-fe
+	url = https://github.com/MAAAAE/lyf-circle-fe.git
+[submodule "lyf-circle-be"]
+	path = lyf-circle-be
+	url = https://github.com/MAAAAE/lyf-circle-be.git
